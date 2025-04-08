@@ -1,3 +1,5 @@
 Download the latest build
 
-Hello! These are the charts that I make! Be sure to credit me.
+Reccomended to use the modpack in [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine).
+
+<!-- Whoever is looking at this, hello! -->
