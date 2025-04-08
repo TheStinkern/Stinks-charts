@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "splitathon idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "splitathon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "splitathon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "splitathon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "splitathon right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				75,
+				83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smash",
+			"loop": false,
+			"name": "splitathon phone"
+		},
+		{
+			"offsets": [
+				2,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "throw",
+			"loop": false,
+			"name": "splitathon throw"
+		}
+	],
+	"vocals_file": "dad",
+	"losing_colors": [
+		37,
+		191,
+		55
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi/Splitathon_bambi",
+	"shake_duration": 0.01,
+	"position": [
+		30,
+		365
+	],
+	"health_drain": false,
+	"shake_intensity": 0.008,
+	"healthicon": "bambi",
+	"shake_screen": false,
+	"drain_floor": 0.04,
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"drain_amount": 0.0005,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.80000000000001,
+	"noteskin": null,
+	"winning_colors": [
+		37,
+		191,
+		55
+	],
+	"scale": 1
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [104, 25],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [10, 25],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [87, 25],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dwn"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/evil_dillon",
+	"position": [-40, 90],
+	"healthicon": "dillon",
+	"flip_x": false,
+	"healthbar_colors": [151, 1, 1],
+	"camera_position": [-90, 120],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fake3DBambi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BREAK0000.png" x="0" y="0" width="866" height="856"/>
+	<SubTexture name="BREAK0001.png" x="866" y="0" width="866" height="856"/>
+	<SubTexture name="BREAK0002.png" x="1732" y="0" width="866" height="856"/>
+	<SubTexture name="BREAK0003.png" x="2598" y="0" width="866" height="856"/>
+	<SubTexture name="BREAK0004.png" x="3464" y="0" width="866" height="856"/>
+	<SubTexture name="BREAK0005.png" x="4330" y="0" width="866" height="856"/>
+	<SubTexture name="DOWN0000.png" x="5196" y="0" width="866" height="856"/>
+	<SubTexture name="DOWN0001.png" x="6062" y="0" width="866" height="856"/>
+	<SubTexture name="DOWN0002.png" x="6928" y="0" width="866" height="856"/>
+	<SubTexture name="DOWN0003.png" x="0" y="856" width="866" height="856"/>
+	<SubTexture name="IDLE0000.png" x="866" y="856" width="866" height="856"/>
+	<SubTexture name="IDLE0001.png" x="1732" y="856" width="866" height="856"/>
+	<SubTexture name="IDLE0002.png" x="2598" y="856" width="866" height="856"/>
+	<SubTexture name="IDLE0003.png" x="3464" y="856" width="866" height="856"/>
+	<SubTexture name="IDLE0004.png" x="4330" y="856" width="866" height="856"/>
+	<SubTexture name="LEFT0000.png" x="5196" y="856" width="866" height="856"/>
+	<SubTexture name="LEFT0001.png" x="6062" y="856" width="866" height="856"/>
+	<SubTexture name="LEFT0002.png" x="6928" y="856" width="866" height="856"/>
+	<SubTexture name="LEFT0003.png" x="0" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONELEFT0000.png" x="866" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONELEFT0001.png" x="1732" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONELEFT0002.png" x="2598" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONELEFT0003.png" x="3464" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONERIGHT0000.png" x="4330" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONERIGHT0001.png" x="5196" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONERIGHT0002.png" x="6062" y="1712" width="866" height="856"/>
+	<SubTexture name="PHONERIGHT0003.png" x="6928" y="1712" width="866" height="856"/>
+	<SubTexture name="RIGHT0000.png" x="0" y="2568" width="866" height="856"/>
+	<SubTexture name="RIGHT0001.png" x="866" y="2568" width="866" height="856"/>
+	<SubTexture name="RIGHT0002.png" x="1732" y="2568" width="866" height="856"/>
+	<SubTexture name="RIGHT0003.png" x="2598" y="2568" width="866" height="856"/>
+	<SubTexture name="UP0000.png" x="3464" y="2568" width="866" height="856"/>
+	<SubTexture name="UP0001.png" x="4330" y="2568" width="866" height="856"/>
+	<SubTexture name="UP0002.png" x="5196" y="2568" width="866" height="856"/>
+	<SubTexture name="UP0003.png" x="6062" y="2568" width="866" height="856"/>
+</TextureAtlas>

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		}
+	],
+	"vocals_file": "dave",
+	"losing_colors": [
+		69,
+		76,
+		242
+	],
+	"no_antialiasing": true,
+	"image": "characters/dave/split_dave_3d",
+	"shake_duration": 0,
+	"position": [
+		50,
+		120
+	],
+	"health_drain": true,
+	"shake_intensity": 0,
+	"healthicon": "disabilityDave",
+	"shake_screen": false,
+	"drain_floor": 0.1,
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		76,
+		242
+	],
+	"drain_amount": 0.01,
+	"camera_position": [
+		-40,
+		-60
+	],
+	"sing_duration": 6.1,
+	"noteskin": "NOTE_assets_3D_Gapple",
+	"winning_colors": [
+		69,
+		76,
+		242
+	],
+	"scale": 1
+}

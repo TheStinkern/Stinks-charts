@@ -1,0 +1,9 @@
+Value 1 = Text
+Value 2 = Color (RRGGBB)
+
+Leave value 1 blank to remove subtitles
+
+Example:
+v1 - Example
+
+v2 - 00FF00

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				68,
+				-2
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				68,
+				-2
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				68,
+				-2
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				13,
+				-61
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"vocals_file": "dad",
+	"losing_colors": [
+		15,
+		95,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dave/ogDave",
+	"shake_duration": 0.01,
+	"position": [
+		240,
+		200
+	],
+	"health_drain": false,
+	"shake_intensity": 0.008,
+	"healthicon": "insaneDave",
+	"shake_screen": false,
+	"drain_floor": 0.04,
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"drain_amount": 0.0005,
+	"camera_position": [
+		-90,
+		-130
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		15,
+		95,
+		255
+	],
+	"scale": 1.6
+}

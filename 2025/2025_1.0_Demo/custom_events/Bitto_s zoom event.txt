@@ -1,0 +1,9 @@
+value 1 must be separated into 3 pieces, or else it will not work:
+	1 - camera to zoom (camGame,camHUD or camOther)
+	2 - zoom value (what to zoom into)
+	3 - zoom duration (how long it takes to zoom)
+	
+ex. "camGame,2.1,0.5"
+
+value 2 is just the tween ease you wanna use:
+https://api.haxeflixel.com/flixel/tweens/FlxEase.html

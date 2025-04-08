@@ -1,0 +1,3 @@
+Set the default Camera zoom.
+
+Value 1: New camera zoom

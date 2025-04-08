@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-19, 10],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "recursedLeft"
+		},
+		{
+			"offsets": [-41, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "recursedDown"
+		},
+		{
+			"offsets": [-6, -10],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "recursedUp"
+		},
+		{
+			"offsets": [0, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "recursedRight"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "recursedIdle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Recurser",
+	"position": [-380, -50],
+	"healthicon": "recurser",
+	"flip_x": false,
+	"healthbar_colors": [44, 44, 44],
+	"camera_position": [100, -80],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-11,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-21,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "FUM"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "CDM"
+		},
+		{
+			"offsets": [
+				12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Peace"
+		},
+		{
+			"offsets": [
+				31,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-12,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-15,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "IRM"
+		},
+		{
+			"offsets": [
+				-16,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "QRM"
+		}
+	],
+	"vocals_file": "bf",
+	"losing_colors": [
+		101,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFQuestionable",
+	"shake_duration": 0,
+	"position": [
+		0,
+		290
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bf-quest",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		101,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 2.80000000000001,
+	"noteskin": null,
+	"winning_colors": [
+		101,
+		255,
+		255
+	],
+	"scale": 0.7
+}

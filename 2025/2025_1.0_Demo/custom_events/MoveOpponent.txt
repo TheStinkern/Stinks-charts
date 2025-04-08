@@ -1,0 +1,3 @@
+Value1: (will always be opponent) X axis position, 0 is top left of the window
+
+Value2: Y axis position, 0 is top left of the window --both values should be present

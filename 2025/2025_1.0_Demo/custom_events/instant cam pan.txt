@@ -1,0 +1,5 @@
+Place event down on a camera pan to make the camera 
+instantly pan.
+
+
+Made by stinko.

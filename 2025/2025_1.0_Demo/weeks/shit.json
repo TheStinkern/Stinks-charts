@@ -1,0 +1,122 @@
+{
+	"storyName": "story",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Cheating",
+			"cheater",
+			[
+				0,
+				100,
+				0
+			]
+		],
+		[
+			"Unfairness",
+			"unfair",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Bot_Trot",
+			"playrobot",
+			[
+				255,
+				195,
+				0
+			]
+		],
+		[
+			"Wireframe",
+			"decdave",
+			[
+				235,
+				40,
+				60
+			]
+		],
+		[
+			"Disability",
+			"disabilityDave",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Algebra_Diamond_Man_Section",
+			"diamond",
+			[
+				0,
+				133,
+				253
+			]
+		],
+		[
+			"Splitathon",
+			"the two people",
+			[
+				0,
+				75,
+				175
+			]
+		],
+		[
+			"Mealie",
+			"loser",
+			[
+				0,
+				235,
+				60
+			]
+		],
+		[
+			"Duper",
+			"bambi-angey",
+			[
+				0,
+				235,
+				60
+			]
+		],
+		[
+			"Opposition",
+			"dad",
+			[
+				180,
+				180,
+				180
+			]
+		],
+		[
+			"Indignancy",
+			"bambi-angey",
+			[
+				0,
+				235,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "story"
+}

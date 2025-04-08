@@ -1,0 +1,3 @@
+Value 1: new icon
+Value 2: dad or bf (dad is default)
+DONT LEAVE VALUE 1 BLANK PLEASE

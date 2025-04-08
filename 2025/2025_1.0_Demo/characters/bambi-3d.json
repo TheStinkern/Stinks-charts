@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				-9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-26,
+				-32
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				13,
+				12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-61,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi/jsbambi",
+	"position": [
+		-110,
+		170
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"camera_position": [
+		50,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

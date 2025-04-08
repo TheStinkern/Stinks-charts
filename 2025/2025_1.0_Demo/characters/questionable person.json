@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				8
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Peace",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				27
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "smash",
+			"loop": false,
+			"name": "Phone Short"
+		}
+	],
+	"vocals_file": "dad",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi/Question_Bayambo",
+	"shake_duration": 0,
+	"position": [
+		100,
+		330
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "question",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 3.70000000000001,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 0.8
+}

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "gapple bf idle"
+		},
+		{
+			"offsets": [
+				7,
+				16
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gapple bf left"
+		},
+		{
+			"offsets": [
+				-33,
+				31
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gapple bf down"
+		},
+		{
+			"offsets": [
+				-49,
+				39
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gapple bf up"
+		},
+		{
+			"offsets": [
+				-42,
+				3
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gapple bf right"
+		}
+	],
+	"vocals_file": "bf",
+	"losing_colors": [
+		49,
+		176,
+		209
+	],
+	"no_antialiasing": true,
+	"image": "characters/gapple-bf",
+	"shake_duration": 0,
+	"position": [
+		0,
+		250
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bf",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-100,
+		130
+	],
+	"sing_duration": 22.3,
+	"noteskin": null,
+	"winning_colors": [
+		49,
+		176,
+		209
+	],
+	"scale": 0.6
+}

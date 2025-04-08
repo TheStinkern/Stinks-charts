@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-56
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				2,
+				23
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-57,
+				17
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-8
+			],
+			"anim": "singSMASH",
+			"fps": 22,
+			"name": "BREAK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 14,
+			"name": "PHONELEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 14,
+			"name": "PHONERIGHT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		26,
+		158,
+		33
+	],
+	"no_antialiasing": true,
+	"image": "characters/expunged/Fake3DBambi",
+	"shake_duration": 0,
+	"position": [
+		-360,
+		-130
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "bambi-fake",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		158,
+		33
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-170,
+		-250
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		26,
+		158,
+		33
+	],
+	"scale": 1.6
+}

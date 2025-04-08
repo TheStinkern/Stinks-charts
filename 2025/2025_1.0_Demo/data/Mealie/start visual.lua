@@ -1,0 +1,17 @@
+function onSongStart()
+	doTweenColor('tween1', 'dad', '878787', 7.05)
+	doTweenColor('tween2', 'boyfriend', '878787', 7.05)
+	doTweenAlpha('oooooo4','bgFade',0,7.05,'linear')
+	doTweenAlpha('a','bgFade',1,0.01,'linear')
+	doTweenAlpha('aa', 'camHUD', 0, 8, 'linear')
+end
+function onCreatePost()
+	setProperty('dad.alpha',0)
+	setProperty('boyfriend.alpha',0)
+	setProperty('gf.alpha',0)
+	makeLuaSprite('bgFade', image, -5000, -5000)
+	makeGraphic('bgFade', 300000, 300000, '000000')
+	setProperty('bgFade.alpha', 1)
+	addLuaSprite('bgFade', false)
+	setObjectCamera('bgFade', 'camGame')	
+end

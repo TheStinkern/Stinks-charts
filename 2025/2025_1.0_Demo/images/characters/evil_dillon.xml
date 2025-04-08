@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil_dillon.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dwn0000" x="19" y="19" width="681" height="684"/>
+	<SubTexture name="dwn0001" x="794" y="19" width="681" height="684"/>
+	<SubTexture name="dwn0002" x="1569" y="19" width="681" height="684"/>
+	<SubTexture name="dwn0003" x="2344" y="19" width="681" height="684"/>
+	<SubTexture name="dwn0004" x="3119" y="19" width="681" height="684"/>
+	<SubTexture name="idle0000" x="2359" y="2353" width="533" height="659"/>
+	<SubTexture name="idle0001" x="2986" y="2386" width="533" height="659"/>
+	<SubTexture name="idle0002" x="2359" y="3106" width="533" height="659"/>
+	<SubTexture name="idle0003" x="2986" y="3139" width="533" height="659"/>
+	<SubTexture name="idle0004" x="19" y="3164" width="533" height="659"/>
+	<SubTexture name="left0000" x="19" y="1575" width="597" height="684"/>
+	<SubTexture name="left0001" x="710" y="1575" width="597" height="684"/>
+	<SubTexture name="left0002" x="1401" y="1575" width="597" height="684"/>
+	<SubTexture name="left0003" x="2092" y="1575" width="597" height="684"/>
+	<SubTexture name="left0004" x="2783" y="1575" width="597" height="684"/>
+	<SubTexture name="right0000" x="19" y="797" width="621" height="684"/>
+	<SubTexture name="right0001" x="734" y="797" width="621" height="684"/>
+	<SubTexture name="right0002" x="1449" y="797" width="621" height="684"/>
+	<SubTexture name="right0003" x="2164" y="797" width="621" height="684"/>
+	<SubTexture name="right0004" x="2879" y="797" width="621" height="684"/>
+	<SubTexture name="up0000" x="3474" y="1575" width="491" height="717"/>
+	<SubTexture name="up0001" x="19" y="2353" width="491" height="717"/>
+	<SubTexture name="up0002" x="604" y="2353" width="491" height="717"/>
+	<SubTexture name="up0003" x="1189" y="2353" width="491" height="717"/>
+	<SubTexture name="up0004" x="1774" y="2353" width="491" height="717"/>
+</TextureAtlas>

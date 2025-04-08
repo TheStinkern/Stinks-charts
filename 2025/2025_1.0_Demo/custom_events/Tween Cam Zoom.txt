@@ -1,0 +1,4 @@
+An event for the custom made parts of songs with special effects.
+
+Value 1: Set of transitions you want to use (Usually the song name)
+Value 2: Which transition you want to use (Usually 1,2,3... in order)

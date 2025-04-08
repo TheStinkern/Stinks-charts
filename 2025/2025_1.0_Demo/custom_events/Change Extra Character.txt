@@ -1,0 +1,6 @@
+Value 1: Character To Change 
+It has to be the same name that you put on the 
+variable 'charName' inside of the main script.
+
+Value 2: New Character Name, Character Group
+Exemple: tankman-player, boyfriendGroup

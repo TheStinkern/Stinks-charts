@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				20,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				47,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "smash",
+			"indices": [],
+			"name": "Phone Short"
+		},
+		{
+			"offsets": [
+				90,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Peace"
+		},
+		{
+			"offsets": [
+				-7,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ask",
+			"indices": [],
+			"name": "Speak"
+		},
+		{
+			"offsets": [
+				-7,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Speak"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [603],
+			"fps": 24,
+			"anim": "speakEndLoop",
+			"loop": true,
+			"name": "Speak0"
+		}
+	],
+	"vocals_file": "dad",
+	"losing_colors": [
+		255,
+		255,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi/SpeakQuestion",
+	"shake_duration": 0,
+	"position": [
+		80,
+		330
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "question",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 8.49999999999999,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		255
+	],
+	"scale": 0.8
+}
